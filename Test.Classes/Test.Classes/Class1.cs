@@ -4,6 +4,6 @@ namespace Test.Classes
 {
     public class Class1
     {
-        public string SmallFix;
+        public string SmallFix2;
     }
 }
